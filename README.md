@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/yfabureh/My_Portfolio_Webs
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## To get the image to show on your website, you must use this path format in your markdown: ![](/images/your_image.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
