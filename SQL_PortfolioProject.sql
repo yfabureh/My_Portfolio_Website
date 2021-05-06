@@ -1,3 +1,8 @@
+  
+/*
+Covid 19 Data Exploration
+*/
+
 USE portfolioproject;
 
 -- Creating two empty databases with the same column lengths as the CSV files i intend to upload
